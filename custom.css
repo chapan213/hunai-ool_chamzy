@@ -14,3 +14,18 @@ td {
     padding: 8px;
     text-align: center;
 }
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #eee;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: #003366;
+}
+
+footer a:hover {
+    color: crimson;
+}
