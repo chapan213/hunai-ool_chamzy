@@ -2,3 +2,9 @@ h1 {
     font-size: 2.5em;
     color: #003366;
 }
+
+th {
+    background-color: lightblue;
+    color: navy;
+    padding: 10px;
+}
